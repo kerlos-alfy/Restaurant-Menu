@@ -1,4 +1,3 @@
-شكرًا للتوضيح! إليك الإصدار المُحدث من ملف `README.md` مع الإشارة إلى أن الملفات بصيغة `jsx` وإضافة ملف `Footer`:
 
 ```markdown
 # Restaurant Menu App
